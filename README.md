@@ -1,7 +1,8 @@
-# Летняя практика в СБЕР (26.06.2023-11.08.2023)
+## ${\color{gray} Task \ 1. \ Financial \ Documents \ Labeling \ in \ Tagme.}$ 
 
-## Цель: разработать OCR модель для автоматического определения сущностей финансовых документов
 
-Задача 1. Разметка данных 4-х типов финансовой отчетности в Tagme
+### What was done.</dd>
+__________
 
-Задача 2. Совмещение размеченной аннотации с файлами
+1. Via Git get key for BitBucket to get access for images.
+2.  In Tagme we had to draw a bbox over the necessary text and fill up as much labels as possible.  
