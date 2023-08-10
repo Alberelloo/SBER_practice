@@ -2,7 +2,8 @@
 
 ## Goals: 
 1. Learn Neural Networks basics. Research applications in NLP and CV tasks.
-2. Take part in the development of OCR model for NER in financial documents
+2. Get to know main projects of other teams in Financial sector
+3. Take part in the development of OCR model for NER in financial documents
 
 ## Tasks: 
 ${\color{gray} Task \ 1. \ Financial \ Documents \ Labeling \ in \ Tagme.}$ 
@@ -12,7 +13,7 @@ ${\color{gray} Task \ 1. \ Financial \ Documents \ Labeling \ in \ Tagme.}$
    
 ${\color{gray} Task \ 2. \ Displaying \ the \ labeled \ annotations \ on \ the \ images \ via \ OpenCV.}$ 
 <dl>
-  <dd> Learned: OpenCV.</dd>
+  <dd> Learned: OpenCV, annotations (COCO, Pascal VOC, YOLO).</dd>
 </dl>
 
 ${\color{gray} Task \ 3. \ Validation \ and\  post-labeling \ table\  data \ from \ OCR. }$ 
